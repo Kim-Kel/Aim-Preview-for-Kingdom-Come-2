@@ -21,6 +21,22 @@ It takes into account various factors, including:
 - Other factors affecting projectile trajectory  
 
 
+
+## Installation
+
+1. Download and extract the files.
+2. Copy the following three files from the `mod` folder:
+   - `KCD2_AimPreview.asi`
+   - `KCD2_AimPreview.ini`
+   - `dinput8.dll`
+3. Paste them into your game's installation directory:
+
+   `steamapps\common\KingdomComeDeliverance2\Bin\Win64MasterMasterSteamPGO`
+
+4. Launch the game and enjoy!
+
+
+
 This mod makes ranged combat significantly easier. You can land accurate shots even with minimal effort!
 
 If you prefer challenging combat or value realism and immersion, this mod is probably not for you!
